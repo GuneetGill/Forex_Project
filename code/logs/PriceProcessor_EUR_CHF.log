@@ -1,0 +1,2 @@
+2023-12-29 14:02:53 LogWrapper init() ./logs/PriceProcessor_EUR_CHF.log
+2023-12-29 14:02:53 Found price : LiveApiPrice() EUR_CHF 0.92899 0.92867 2023-12-29 21:58:00.100684+00:00

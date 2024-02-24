@@ -1,0 +1,2 @@
+2023-12-29 14:02:53 LogWrapper init() ./logs/PriceProcessor_GBP_CHF.log
+2023-12-29 14:02:53 Found price : LiveApiPrice() GBP_CHF 1.07172 1.07054 2023-12-29 21:58:00.128147+00:00

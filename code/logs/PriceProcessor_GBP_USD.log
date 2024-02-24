@@ -1,0 +1,2 @@
+2023-12-29 14:02:53 LogWrapper init() ./logs/PriceProcessor_GBP_USD.log
+2023-12-29 14:02:53 Found price : LiveApiPrice() GBP_USD 1.27324 1.27303 2023-12-29 21:58:00.136445+00:00
