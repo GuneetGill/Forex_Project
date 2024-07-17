@@ -19,3 +19,7 @@ The Forex Data Analysis project involves utilizing the OANDA API to access marke
 - **Flask:** For creating the web application backend.
 - **React:** For building the interactive user interface.
 - **Cloud Platforms:** Used Linode for deploying trading bots.
+
+## **Demo**
+![ScreenRecording2024-07-16at11 39 33PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ee90604d-e540-47bb-b78c-5e32d423ba5e)
+![ScreenRecording2024-07-16at11 40 57PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b6b37bc4-f9d5-4862-b55c-b385d4d4a1fe)
