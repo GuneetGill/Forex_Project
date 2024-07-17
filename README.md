@@ -1,7 +1,7 @@
 # **Forex Data Analysis**
 
 ## **Overview**
-The Forex Data Analysis project involves utilizing the OANDA API to access market data, developing live trading bots, and conducting statistical analysis on Forex pairs. This project covers strategy development, backtesting, candle pattern detection, indicator calculation, and web scraping for data collection. The trading bots are deployed on cloud platforms for continuous 24/7 trading, and an interactive web application is created to display various market parameters and bot status.
+The Forex Data Analysis project involves utilizing the OANDA API to access market data, developing live trading bots, and conducting statistical analysis on Forex pairs. This project covers strategy development, backtesting, candle pattern detection, indicator calculation, and web scraping for data collection. The trading bots are deployed on cloud platforms for continuous 24/7 trading, and an interactive web application is created to display various market parameters.
 
 ## **Features**
 - **Market Data Access:** Utilizes the OANDA API to retrieve real-time market data for Forex currency pairs.
